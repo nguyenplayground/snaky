@@ -1,2 +1,3 @@
-# snaky
-A snake game made withy pygame
+# Snaky
+
+A snake game made with pygame
