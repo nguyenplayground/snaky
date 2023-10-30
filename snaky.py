@@ -1,5 +1,9 @@
 import pygame
 
+cell_size = 40
+screen_width = cell_size * 32
+screen_height = cell_size * 28
+
 # pygame setup
 pygame.init()
 screen = pygame.display.set_mode((1280, 720))
